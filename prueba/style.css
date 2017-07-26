@@ -1,0 +1,20 @@
+header.main nav .navigation li {
+  display: inline;
+  margin: 0 10px;
+}
+
+
+img.logo {
+
+  width: 150px;
+}
+
+ul.navigation {
+
+  float: right;
+}
+
+nav {
+
+  margin-top: 20px;
+}
